@@ -42,32 +42,16 @@
                     </a>
                     <div class="collapse menu-dropdown" id="sidebarDashboards">
                         <ul class="nav nav-sm flex-column">
-                            <li class="nav-item">
-                                <a href="dashboard-analytics" class="nav-link">@lang('translation.analytics')
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="dashboard-crm" class="nav-link">@lang('translation.crm')
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="index" class="nav-link">@lang('translation.ecommerce')
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="dashboard-crypto" class="nav-link">@lang('translation.crypto')
-                                </a>
-                            </li>
+
+
+
+
                             <li class="nav-item">
                                 <a href="dashboard-projects" class="nav-link">@lang('translation.projects')
                                 </a>
                             </li>
-                            <li class="nav-item">
-                                <a href="dashboard-nft" class="nav-link"> @lang('translation.nft')</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="dashboard-job" class="nav-link">@lang('translation.job')</a>
-                            </li>
+
+
                             <li class="nav-item">
                                 <a href="dashboard-blog" class="nav-link"><span>@lang('translation.blog')</span> <span
                                         class="badge bg-success">@lang('translation.new')</span></a>
